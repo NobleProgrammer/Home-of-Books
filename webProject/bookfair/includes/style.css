@@ -1,0 +1,37 @@
+
+table,td,th{
+  border: 1px solid black;
+
+}
+table {
+
+  border-spacing: 1;
+  border-collapse: collapse;
+  background:white;
+  overflow:hidden;
+  max-width:800px;
+  width:100%;
+  margin:0 auto;
+  position:relative;
+}
+  td,th{
+    padding-left:8px
+  }
+
+  thead tr {
+    height:60px;
+    background:#DAEDB7;
+    font-size:16px;
+    text-align: left;
+  }
+
+  tbody tr  {
+
+    height:48px;
+    border-bottom:1px solid #E3F1D5;
+    font-size: 16px;
+  }
+
+.parStyle{
+  font-size: 18px;
+}

@@ -1,0 +1,16 @@
+.resume_pdf{
+    width: 1100px;
+    height: 250px;
+}
+
+.footer {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.resume {
+    background: #eee;
+    position: relative;
+}

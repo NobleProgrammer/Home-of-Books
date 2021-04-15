@@ -1,0 +1,13 @@
+@page{
+   size: A4 landscape;
+}
+
+#footer, #header , h2 {
+    display: none;
+}
+.wrapper_body p {
+    text-align: center;
+}
+.wrapper_body{
+    display: block;
+}

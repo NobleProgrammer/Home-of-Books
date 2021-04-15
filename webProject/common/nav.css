@@ -1,0 +1,55 @@
+
+ #menu_section{
+
+	float: left;
+	margin: 21px 0 0 0;
+	padding: 0;
+
+}
+
+#menu_section ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu_section ul li{
+	display: inline;
+}
+
+#menu_section ul li a{
+	float: left;
+	width: 110px;
+	padding-top: 8px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+#menu_section ul li a span.left{
+
+	display: block;
+	height: 26px;
+
+}
+
+#menu_section li a:hover, #menu_section li .current{
+	height: 26px;
+	background: url(images/templatemo_menu_current_bg_right.jpg) right no-repeat;
+}
+
+
+#menu_section li .current  span.left, #menu_section li a:hover span.left {
+
+	background: url(images/templatemo_menu_current_bg_left.jpg) left no-repeat;
+	height: 26px;
+	padding-top: 8px;
+	margin-top: -8px;
+
+
+
+}
