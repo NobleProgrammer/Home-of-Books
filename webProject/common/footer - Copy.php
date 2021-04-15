@@ -9,5 +9,8 @@
 <h1> footers works looooooooooooooool </h1>
 <a href = "http://www.w3.org/Icons/valid-xhtml10"> <img src = "../common/valid-xhtml10.png"/> </a>
 <a href = "http://www.w3.org/Icons/valid-css-blue"> <img src = "../common/valid-css-blue.png"/> </a>
+<?php 
+      
+?>
 </body>
 </html>
