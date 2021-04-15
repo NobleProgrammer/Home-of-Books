@@ -16,6 +16,9 @@
     <a href = "http://www.w3.org/Icons/valid-xhtml10"><img src = "../common/images/valid-xhtml10.png"/> </a>
     <a href = "http://www.w3.org/Icons/valid-css-blue"><img src = "../common/images/valid-css-blue.png"/> </a>
   </div>
+  <?php 
+      
+  ?>
 
 </body>
 </html>
